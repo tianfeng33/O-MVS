@@ -9,6 +9,7 @@ They are meant for people to develop or modify so they can create derivative pro
 
 If you wish to use the project as is, please have boards made using the Gerbers or the files on OSH PARK. 
 These have been tested thoroughly and I hold no responsibility for any damage to your MVS units or your equipment. 
+
 Have fun and make some cool shit for the community.
 
 TF
